@@ -13,6 +13,7 @@
 
 #STRUCTURE OF C++ PROGRAM
 
+```cpp
 #include <iostream>       // includes library having different files
 using namespace std;      // using standard library to remove naming conflicts
 
@@ -20,6 +21,7 @@ int main() {              // program starts here
                           // collection of logical statements
     return 0;             // success is returned by returning 0, else error gives some other value
 }
+```
 
 
 #VARIABLES
