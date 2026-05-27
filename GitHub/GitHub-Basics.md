@@ -1,12 +1,33 @@
 # GitHub basics 
 
-basic commands - git init, git add, git status, git commit, git push
+BASIC COMMANDS & TERMS :
+- git init
+- git add
+- git commit
+- git push
+- git status 
+- git clone
+- git pull
+- Directory - Folder
+- Termminal/Command Line - Interface for text commands
+- CLI - Command Line Interface
+- Repository - a Project, or the folder having project.
+- README FILE - Contains the description of project
+- origin - set location for Git repo
+- master - branch where we want to push
 
-1. Git is used for version control
+# IMPORTANT 
+
+- git push origin master - works only when connection established
+- git remote add origin "link" - helps establish the above connection needed
+- git remote -v 
+- git push -u origin master
+
+1. Git is used for version control i.e. the management of changes to documents, computer programs, large websites, etc.
 2. GitHub is the platform to store all the changes made, file updates and repositries operations.
 3. mkdir - creates
 4. ls - lists things inside
-5. cd - change directory
+5. cd - change directory 
 6. all history is saved in .git and are hidden, can be accessed by (git:(master) ls -a)
 7. touch(in linux)/ni(in terminal) - creates new file
 8. git status - to know the changes made, what's changed in the current version
@@ -49,4 +70,4 @@ pick & s (squashed into one which is picked)
 :x (exit)
 37. MERGE CONFLICTS
 concurrent changes on same line need help to decide which modification is to be tkaen as final in the line
-take whtvr you want to take, merge the PR and resolve conflict sleected
+take whtvr you want to take, merge the PR and resolve conflict selected
