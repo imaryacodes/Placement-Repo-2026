@@ -1,6 +1,6 @@
-# Notes for GitHub basics 
+# GitHub basics 
 
-basic commands - git init, git add, git status, git commit
+basic commands - git init, git add, git status, git commit, git push
 
 1. Git is used for version control
 2. GitHub is the platform to store all the changes made, file updates and repositries operations.
