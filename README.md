@@ -3,15 +3,13 @@
 This repository contains my daily placement preparation progress.
 
 ## Topics Covered
-- DSA in C++
-- LeetCode
-- CodeChef / Codeforces
+- DSA in C++,
+- Leetcode Questions
 - Aptitude
 - OOPS
 - DBMS
 - OS
 - CN
-- Projects
 
 ## Goal
 Preparing for software engineering placements and internships.
