@@ -13,3 +13,7 @@ This repository contains my daily placement preparation progress.
 
 ## Goal
 Preparing for software engineering placements and internships.
+
+# Branch Update
+
+Created a new branch and made changes successfully
