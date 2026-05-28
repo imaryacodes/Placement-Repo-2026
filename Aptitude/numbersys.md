@@ -1,4 +1,4 @@
-#GEOMETRIC PROGRESSION
+# GEOMETRIC PROGRESSION
 
 sequence of non-zero numbers, ratio of any term with its preceding term is always constant.
 
@@ -10,7 +10,7 @@ first term = a
 
 
 
-#ARITHMETIC PROGRESSION
+# ARITHMETIC PROGRESSION
 
 sequence of numbers with each term after first is found by adding a constant to preceding term
 
@@ -21,7 +21,7 @@ Form - x, x+y, x+2y, x+3y....
 - 1+2^2+3^2+.......+n^2 = [n(n+1)(2n+1)] / 6
 - for sum of cubes = {[n(n+1)] / 2} ^ 2
 
-#TYPES OF NUMBERS
+= TYPES OF NUMBERS
 
 - Natural (Counting)
 - Whole
@@ -32,7 +32,7 @@ Form - x, x+y, x+2y, x+3y....
 - Composite
 - Co-Prime (when HCF = 1)
 
-#DIVISIBILITY
+# DIVISIBILITY
 
 - By 2 : units digit has 0,2,4,6,8
 - By 3 : sum of all digits is divisible by 3
@@ -44,7 +44,7 @@ Form - x, x+y, x+2y, x+3y....
 
 
 
-#IMPORTANT
+# IMPORTANT
 - To find a number, say b is divisible by a, find two numbers m and n, such that m*n = a, where m and n are co-prime numbers and if b is divisible by both m and n then it is divisible by a.
 - Sum of the first n odd numbers = n2
 - Sum of first n even numbers = n ( n + 1)
