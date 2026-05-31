@@ -2,7 +2,7 @@
 
 sequence of non-zero numbers, ratio of any term with its preceding term is always constant.
 
-Form - x, xr, xr3, xr4...
+Form - x, xr, xr^2, xr^3, xr^4...
 first term = a
 - nth term = xr^(n -1)
 - Sum of n terms = x(1 – r^n) / (1-r), here r < 1
@@ -54,7 +54,7 @@ Form - x, x+y, x+2y, x+3y....
     = if n is odd : a^n + b^n is divisible by (a - b)
     = a^n - b^n is always divisible by (a – b)
 - To find the unit digit of number in form : a^b
-    = If b is not divisible by 4, then Units digit is a^r, r is the remainder.
+    = If b is not divisible by 4, then Units digit is r in a^r, r is the remainder.
     = If b is multiple of 4,
         ~ units digit is 6 (when even nums raised to multiple of 4)
         ~ units digit is 1 (when odd nums raised to multiple of 4)
