@@ -11,4 +11,4 @@
 - MULTIPLE CHANGES ->
 -- to back to a certain commit, in the log of commits, copy the hash of the wanted commit  and then 
 "git reset hashvalue"
--- git reset --hard - to get rid of all the changes that were done for testing purpose only
+-- git reset --hard - to get rid of all the changes from both github and local repo that were done for testing purpose only

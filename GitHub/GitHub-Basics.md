@@ -23,12 +23,14 @@ BASIC COMMANDS & TERMS :
 - git remote -v - to verify the origin
 - git push -u origin master
 
-1. Git is used for version control i.e. the management of changes to documents, computer programs, large websites, etc.
+1. Git is used for version control i.e. the management of changes to documents, computer programs, large websites, etc. 
+
 2. GitHub is the platform to store all the changes made, file updates and repositries operations.
+
 3. mkdir - creates
 4. ls - lists things inside
 5. cd - change directory, i.e. files inside a folder or file is accessed  
-6. all history is saved in .git and are hidden, can be accessed by (git:(master) ls -a)
+6. all history is saved in .git and are hidden, can be accessed by ls -a
 7. touch(in linux)/ni(in terminal) - creates new file
 8. git status - to know the changes made, what's changed in the current version
 9. untracked files - new files whose history can't be tracked by git 
@@ -55,7 +57,7 @@ BASIC COMMANDS & TERMS :
 30. if want to add a change, i.e. own code in the main branch of some other organisation's repo- you suggest some changes through the "PULL REQUEST" option which is then reviewed and merged with their main file if it looks fine to them
 31. BRANCH & make PR
 git branch arya
-git checkout arya
+git checkout arya (checkout helps switch between branches)
 git add .
 git commit -m "Arya added a message"
 git push origin arya
