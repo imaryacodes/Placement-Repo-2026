@@ -2,9 +2,9 @@
 
 BASIC COMMANDS & TERMS :
 - git init
-- git add
-- git commit
-- git push
+- git add - addds new/changed files in working directory
+- git commit - record of changes addded
+- git push - uploads content from local to remote
 - git status 
 - git clone
 - git pull
@@ -18,20 +18,20 @@ BASIC COMMANDS & TERMS :
 
 # IMPORTANT 
 
-- git push origin master - works only when connection established
+- git push origin "branch name" - works only when connection established
 - git remote add origin "link" - helps establish the above connection needed
-- git remote -v 
+- git remote -v - to verify the origin
 - git push -u origin master
 
 1. Git is used for version control i.e. the management of changes to documents, computer programs, large websites, etc.
 2. GitHub is the platform to store all the changes made, file updates and repositries operations.
 3. mkdir - creates
 4. ls - lists things inside
-5. cd - change directory 
+5. cd - change directory, i.e. files inside a folder or file is accessed  
 6. all history is saved in .git and are hidden, can be accessed by (git:(master) ls -a)
 7. touch(in linux)/ni(in terminal) - creates new file
 8. git status - to know the changes made, what's changed in the current version
-9. untracked files - whhose history han't been saved yet
+9. untracked files - new files whose history can't be tracked by git 
 10. git add . - dot adds all the things or files that haven't been registered in history yet
 11. -m - provides a msg
 12. add - adds file to the staging(execution) area
