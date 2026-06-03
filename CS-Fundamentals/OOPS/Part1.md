@@ -24,7 +24,7 @@ int main() {              // program starts here
 ```
 
 
-#VARIABLES
+# VARIABLES
 
 - Labeled container in memory which stores data that can be used by the program.
 - Data type to be mentioned, is necessary.
@@ -33,7 +33,7 @@ int main() {              // program starts here
 - Variable names can't be a C++ Keyword.
 
 
-#DATA TYPES
+# DATA TYPES
 
 - 1 byte = 8 bits
 - size range = 2^n bits
@@ -41,7 +41,7 @@ int main() {              // program starts here
 - Non-Primitive : user defined data type, built by a combination of primitives
 
 
-#INPUT/OUTPUT
+# INPUT/OUTPUT
 
 - cin : input from users using 'cin >>'
 - cout : output by system using 'cout <<'
